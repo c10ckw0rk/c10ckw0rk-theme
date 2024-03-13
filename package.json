@@ -1,0 +1,21 @@
+{
+  "name": "c10ckw0rk-theme",
+  "displayName": "c10ckw0rk-theme",
+  "description": "vscode theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "c10ckw0rk",
+        "uiTheme": "vs-dark",
+        "path": "./themes/c10ckw0rk-color-theme.json"
+      }
+    ]
+  }
+}
