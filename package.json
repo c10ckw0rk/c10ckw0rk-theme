@@ -9,6 +9,10 @@
   "categories": [
     "Themes"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/c10ckw0rk/c10ckw0rk-theme"
+  },
   "contributes": {
     "themes": [
       {
